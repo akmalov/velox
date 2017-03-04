@@ -1,0 +1,65 @@
+@font-face {
+  font-family: Lora;
+  src: url('../fonts/Lora/Lora-Regular.eot');
+  src: url('../fonts/Lora/Lora-Regular.woff2') format('woff2'),
+  url('../fonts/Lora/Lora-Regular.woff') format('woff'),
+  url('../fonts/Lora/Lora-Regular.ttf') format('truetype'),
+  url('../fonts/Lora/Lora-Regular.eot?#iefix') format('embedded-opentype');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: Lora;
+  src: url('../fonts/Lora/Lora-Bold.eot');
+  src: url('../fonts/Lora/Lora-Bold.woff2') format('woff2'),
+  url('../fonts/Lora/Lora-Bold.woff') format('woff'),
+  url('../fonts/Lora/Lora-Bold.ttf') format('truetype'),
+  url('../fonts/Lora/Lora-Bold.eot?#iefix') format('embedded-opentype');
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Open Sans";
+  src: url('../fonts/OpenSans/OpenSans-Regular.eot');
+  src: url('../fonts/OpenSans/OpenSans-Regular.woff2') format('woff2'),
+  url('../fonts/OpenSans/OpenSans-Regular.woff') format('woff'),
+  url('../fonts/OpenSans/OpenSans-Regular.ttf') format('truetype'),
+  url('../fonts/OpenSans/OpenSans-Regular.eot?#iefix') format('embedded-opentype');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Open Sans";
+  src: url('../fonts/OpenSans/OpenSans-Light.eot');
+  src: url('../fonts/OpenSans/OpenSans-Light.woff2') format('woff2'),
+  url('../fonts/OpenSans/OpenSans-Light.woff') format('woff'),
+  url('../fonts/OpenSans/OpenSans-Light.ttf') format('truetype'),
+  url('../fonts/OpenSans/OpenSans-Light.eot?#iefix') format('embedded-opentype');
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Open Sans";
+  src: url('../fonts/OpenSans/OpenSans-Semibold.eot');
+  src: url('../fonts/OpenSans/OpenSans-Semibold.woff2') format('woff2'),
+  url('../fonts/OpenSans/OpenSans-Semibold.woff') format('woff'),
+  url('../fonts/OpenSans/OpenSans-Semibold.ttf') format('truetype'),
+  url('../fonts/OpenSans/OpenSans-Semibold.eot?#iefix') format('embedded-opentype');
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Source Sans Pro";
+  src: url('../fonts/SourceSansPro/SourceSansPro-Semibold.eot');
+  src: url('../fonts/SourceSansPro/SourceSansPro-Semibold.woff2') format('woff2'),
+  url('../fonts/SourceSansPro/SourceSansPro-Semibold.woff') format('woff'),
+  url('../fonts/SourceSansPro/SourceSansPro-Semibold.ttf') format('truetype'),
+  url('../fonts/SourceSansPro/SourceSansPro-Semibold.eot?#iefix') format('embedded-opentype');
+  font-weight: 600;
+  font-style: normal;
+}

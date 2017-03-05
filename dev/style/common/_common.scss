@@ -13,3 +13,29 @@
     background: darken(#00a5ff, 10%);
   }
 }
+
+.section {
+
+  &-title {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+
+    &-text {
+      margin-bottom: 30px;
+      font-size: 42px;
+      line-height: 1;
+      font-family: "Lora";
+      font-weight: 700;
+      color: #3a3f4b;
+      text-transform: uppercase;
+    }
+  }
+
+  &-line {
+    width: 147px;
+    height: 4px;
+    background: #1d91e1;
+  }
+}

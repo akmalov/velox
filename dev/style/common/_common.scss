@@ -8,6 +8,7 @@
   color: #fff;
   border-radius: 45px;
   background: #00a5ff;
+  box-shadow: 0 2px 4.75px 0.25px rgba(0, 0, 0, 0.25);
 
   &:hover {
     background: darken(#00a5ff, 10%);
